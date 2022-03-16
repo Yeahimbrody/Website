@@ -76,3 +76,12 @@ button {
     font-weight: 600;
     margin-bottom: 30px;
 }
+.return-link{
+    display: flex;
+    color: black;
+	font-size: 18px;
+	text-decoration: none;
+    flex: 2;
+    list-style: none;
+    
+}
